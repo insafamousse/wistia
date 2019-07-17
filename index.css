@@ -1,0 +1,169 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    font-family: verdana;
+  font-size: 15px;
+
+}
+.color{background-color: #c896a5;
+
+}
+
+
+.id1{
+    font-family: verdana;
+  font-size: 14px;
+
+    background-color: #fed24a;
+}
+
+.id2{ 
+    font-family: verdana;
+  font-size: 14px;
+    background-color: #51c29f;
+}
+
+.id3{  font-family: verdana;
+    font-size: 14px;
+
+    background-color:#3ea9f5 
+}
+
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    color:white ;
+    width: 61%;
+}
+
+
+
+.insaf{
+    display:flex; 
+    justify-content:space-between;
+} 
+.gang{
+    
+    display:flex;
+    justify-content:space-between;
+    color: gray;  
+}
+.section1{
+    display:flex;
+    justify-content: space-between;
+    width: 97%;
+}
+.images img{       
+    height:60px;
+}
+.images { 
+    display:flex;
+    justify-content: space-around;
+    width:62%;
+}
+.logo-container{ 
+    display:flex;
+    justify-content:space-between;
+    width:50%;
+}
+.video{ 
+    background-color:white;    
+    display: flex;
+}
+.video>div>div>img{   
+    width: 100%;
+}
+.video>div{   
+    flex-basis: 0;
+    flex-grow: 1;
+    margin:1%
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.about{
+    display: flex;
+       
+}
+.westia video{
+    width:600px;
+    height: auto;
+    
+}
+.social-media{
+    justify-content:space-between; 
+    align-items: center;
+    
+}
+.dreams{ 
+    background-color:#EFEFEF;
+    padding:25px 40px;
+    text-align: center;
+}
+.girl{
+    display:flex;
+    /* align-items:center; */
+}
+footer{
+    background-color: rgb(26, 25, 25);
+    color: white;
+}
+.service{ 
+    background-color:#5B6B7F;
+    justify-content:center; 
+}
+.final {
+    display:flex;
+    justify-content: center;
+    color:#B2B9C1;
+}
+.border-taille{
+    border-right: 1px solid  gray;
+    padding:20px;
+    height: 200px;
+    width: 500px;
+    
+}
+.sociel-media{
+    color:  #3AB16A;
+    text-decoration:underline; 
+}
+.social-media{
+    color:#3AB16A;
+    box-sizing: inherit;
+}
+.mark{ 
+    color:#5B6B7F;
+}
+.pricc-wistia a{
+    color: white;
+}
+.free-account a{
+    color:#3EA9F5
+}
+.margin{ 
+    color:#5B6B7F;
+    widows: 100px; ;
+}
+.chain a{
+    color:white;
+
+}
+.free a{ 
+    color:#FD9786;
+
+}
+.company{
+    color:#5B6B7F;
+}
+.learn a{
+    color:white;
+}
+.soft{
+    color:#5B6B7F;
+}
+.state a{
+    color:white;
+}
